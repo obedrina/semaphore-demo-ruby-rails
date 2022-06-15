@@ -23,7 +23,7 @@ Then run code scanning and automated tests as per `.semaphore/semaphore.yml`.
 
 ## CI/CD on Semaphore
 
-If you're a newbie to Semaphore, feel free to fork this repository and use it to
+If you're new to Semaphore, feel free to fork this repository and use it to
 [create a project](https://docs.semaphoreci.com/article/63-your-first-project).
 
 The CI pipeline will look like this:
