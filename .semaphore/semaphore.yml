@@ -35,7 +35,6 @@ blocks:
   - name: Unit tests
     dependencies:
       - Code scanning
-      - Setup
     task:
       prologue:
         commands:
